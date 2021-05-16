@@ -1,0 +1,112 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "603ebbc4040323ef53ba1dc37de67717",
+      "css": "instagram",
+      "code": 61533,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "53d4dc777eeba379412efba3ee1cac9e",
+      "css": "facebook",
+      "code": 61522,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "ec3648a34c41b70671dc38dbb72deb04",
+      "css": "twitter",
+      "code": 61528,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "8669af50382b53c48b9b803692828dd0",
+      "css": "github-circled-alt2",
+      "code": 61526,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "3c2cfcbad5062929d63a249f3858e38b",
+      "css": "github-circled-alt",
+      "code": 61523,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "3261112d66c6462ea20893f42b6f799b",
+      "css": "github-circled",
+      "code": 61524,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "9ea28ba01d59a4410fa3db9c02cce157",
+      "css": "github",
+      "code": 61525,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "96aafeab29734d1510805687f7695f8f",
+      "css": "facebook-circled",
+      "code": 61521,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "0a16125788558bcc5d70ae3f10effce5",
+      "css": "instagram-circled",
+      "code": 61534,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "f09340446e327a78969ea1bfac29c1a6",
+      "css": "linkedin",
+      "code": 61532,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "627abcdb627cb1789e009c08e2678ef9",
+      "css": "twitter-1",
+      "code": 61593,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "5e0a374728ffa8d0ae1f331a8f648231",
+      "css": "github-1",
+      "code": 61715,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "8e04c98c8f5ca0a035776e3001ad2638",
+      "css": "facebook-1",
+      "code": 61594,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "4743b088aa95d6f3b6b990e770d3b647",
+      "css": "facebook-squared",
+      "code": 62216,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9f7e588c66cfd6891f6f507cf6f6596b",
+      "css": "phone",
+      "code": 59392,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "bf882b30900da12fca090d9796bc3030",
+      "css": "mail",
+      "code": 59393,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "ccc2329632396dc096bb638d4b46fb98",
+      "css": "mail-alt",
+      "code": 61664,
+      "src": "fontawesome"
+    }
+  ]
+}
