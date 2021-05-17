@@ -1,7 +1,7 @@
 <?php
     // Plik konfiguracyjny do lączenia strony z bazą danych
 
-    DEFINE('HASH_KEY', '7s8z6pWNUvlC1kJHCpOgh0yOLzeXiK');
+    DEFINE('HASH_KEY', 'so7cytjfnnoauqk6kenyvgnl1e69gu');
     DEFINE('DB_NAME', 'portfolio'); // nazwa bazy w bazie danych (np. portfolio)
     DEFINE('DB_HOST', 'localhost'); // nazwa hosta w bazie dancyh (np. localhost, 127.0.0.1)
     DEFINE('DB_USER', 'root'); // nazwa użytkownika (np. root, jan, 1234567_uzytkownik)
