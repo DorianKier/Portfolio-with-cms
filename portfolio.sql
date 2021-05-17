@@ -148,7 +148,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id`, `imie`, `login`, `haslo`) VALUES
-(1, 'Admin', 'admin', 'eb9aa7c5e1022cf2d97d6ee45422afac713ea9edb7c7952f0c4fad58bac94a23');
+(1, 'Admin', 'admin', 'b4aea89852598dac6b23ad25097f87f79e9da57fa781835af883eed803345723');
 
 --
 -- Indeksy dla zrzutów tabel
